@@ -5,6 +5,8 @@ import Card from "./components/Card";
 import Footer from "./components/Footer"
 import SponsorsSection from "./components/Sponsers";
 import Recap from "./components/Recap";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 
 function App() {
